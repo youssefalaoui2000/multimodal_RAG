@@ -1,0 +1,15 @@
+huggingface_hub==0.25.2
+gradio
+pdfplumber
+pandas
+langchain
+chromadb
+
+langchain-chroma
+sentence-transformers
+transformers
+bitsandbytes>=0.41.3
+langchain_community
+accelerate>=0.26.0
+tabulate
+
