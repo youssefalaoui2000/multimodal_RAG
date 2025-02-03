@@ -4,7 +4,7 @@
 This project implements a **Retrieval-Augmented Generation (RAG) chatbot** capable of answering questions based on the content of uploaded PDF documents. It utilizes **Chroma** for vector storage, **Hugging Face transformers** for language models, and **multi-vector retrieval** to enhance response accuracy. The chatbot supports **multimodal inputs** (text, tables and images), integrating **summarization, document retrieval, and text generation** to provide detailed answers.
 
 ## Usage Guide
-1. **Access the chatbot:** [Visit my Hugging Face Space](https://huggingface.co/spaces/yoy2000/RAG_vision_documents) *(Note: It might be paused at times).*
+1. **Access the chatbot:** [Visit my Hugging Face Space](https://huggingface.co/spaces/yoy2000/RAG_vision_documents) *(Note: It might be paused).*
    ![Project Space](start.png)
 3. **Upload PDFs:** On the first page, upload multiple PDF documents to initialize the retriever.
    ![Upload retriever](retriever.png)
